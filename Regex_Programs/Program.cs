@@ -12,7 +12,8 @@
             //PasswordRules.Password_Rules();
             //PUpperCase.PUpper_Case();
             //PNumericNumber.PNumeric_Number();
-            PSpecialCharacter.PSpecial_Character();
+            //PSpecialCharacter.PSpecial_Character();
+            EmailSamples.Email_Samples();
         }
     }
 }
