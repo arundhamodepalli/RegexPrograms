@@ -8,8 +8,9 @@
             // ValidFirstName.Valid_FirstName();
             // ValidLastName.Valid_LastName();
             // ValidEmail.Valid_Email();
-            // MobileNumberFormat.MobileNumber_Format();
-            PasswordRules.Password_Rules();
+            //MobileNumberFormat.MobileNumber_Format();
+            //PasswordRules.Password_Rules();
+            PUpperCase.PUpper_Case();
         }
     }
 }
