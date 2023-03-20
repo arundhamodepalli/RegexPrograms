@@ -10,7 +10,8 @@
             // ValidEmail.Valid_Email();
             //MobileNumberFormat.MobileNumber_Format();
             //PasswordRules.Password_Rules();
-            PUpperCase.PUpper_Case();
+            //PUpperCase.PUpper_Case();
+            PNumericNumber.PNumeric_Number();
         }
     }
 }
