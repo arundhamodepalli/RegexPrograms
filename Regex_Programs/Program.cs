@@ -6,7 +6,8 @@
         {
             // Console.WriteLine("welcome to regex programs");
             // ValidFirstName.Valid_FirstName();
-            ValidLastName.Valid_LastName();
+            // ValidLastName.Valid_LastName();
+            ValidEmail.Valid_Email();
         }
     }
 }
