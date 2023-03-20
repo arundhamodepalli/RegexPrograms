@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("welcome to regex programs");
+            // Console.WriteLine("welcome to regex programs");
+            ValidFirstName.Valid_FirstName();
         }
     }
 }
