@@ -11,7 +11,8 @@
             //MobileNumberFormat.MobileNumber_Format();
             //PasswordRules.Password_Rules();
             //PUpperCase.PUpper_Case();
-            PNumericNumber.PNumeric_Number();
+            //PNumericNumber.PNumeric_Number();
+            PSpecialCharacter.PSpecial_Character();
         }
     }
 }
